@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqoseeji.github.io/Asn/sitemap_index.txt
+Sitemap: https://uqoseeji.github.io/Bvx/sitemap_index.txt
+Sitemap: https://uqoseeji.github.io/PZu/sitemap_index.txt
+Sitemap: https://uqoseeji.github.io/sNR/sitemap_index.txt
